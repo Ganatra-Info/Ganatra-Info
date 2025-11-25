@@ -55,11 +55,10 @@ For custom implementations or integrations, contact us.
 ---
 
 ## Connect
-Website: https://ganatrainfo.com
-Email: contact@ganatrainfo.com
+Website: https://ganatrainfo.com  
+Email: contact@ganatrainfo.com  
 LinkedIn: https://in.linkedin.com/company/ganatra-info
-
----
+ ---
 
 ## SEO Keywords
 
