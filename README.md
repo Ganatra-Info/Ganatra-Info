@@ -40,18 +40,6 @@ We work with global clients across industries including retail, e-commerce, auto
 
 ---
 
-## Tech Stack
-
-| Category   | Technology |
-|------------|------------|
-| Frontend   | React, Next.js |
-| Backend    | Laravel (PHP 8+), Node.js |
-| Database   | MySQL |
-| Integrations | Shopify API, Maropost API |
-| Tools      | GitHub, Docker, Postman |
-| Hosting    | AWS, Cloud Servers |
-
----
 
 ## Featured Projects
 
