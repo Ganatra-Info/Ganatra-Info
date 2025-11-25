@@ -1,66 +1,87 @@
-# Ganatra Info — Inventory, Orders & ERP Management System
+# Ganatra Info
 
-Ganatra Info provides modern solutions for Inventory Management, Order Processing, User Management, and E-commerce Integrations using Laravel, React, MySQL, and REST APIs.  
-Our systems help businesses manage products, track orders, sync data with Shopify and Maropost, and automate daily operations.
-
----
-
-## Features
-
-### Inventory Management
-- Product catalog management  
-- Brand, SKU, and category structure  
-- Stock updates and history tracking  
-
-### Orders & Fulfillment
-- Sync orders from Shopify, Maropost, and other channels  
-- Automated supplier order placement  
-- Full order lifecycle management  
-- Order status tracking  
-
-### User & Role Management
-- Admin and operator roles  
-- Permission-based access  
-- Authentication workflows  
-
-### API Integrations
-- Shopify REST Admin API  
-- Maropost Commerce API  
-- Supplier APIs  
-- Cron jobs for automated syncing  
+Ganatra Info is a technology-driven company providing end-to-end software solutions including ERP systems, Inventory & Order Management, E-commerce Integrations, Custom Web Development, and scalable digital platforms.  
+We help businesses automate workflows, manage operations efficiently, and scale through modern engineering practices.
 
 ---
 
-## Included Modules
+## About Us
+
+Ganatra Info delivers reliable and customizable software solutions tailored to real business needs.  
+Our expertise covers full-stack development, cloud system architecture, API integrations, and large-scale ERP platform design.
+
+We work with global clients across industries including retail, e-commerce, automotive, distribution, and manufacturing.
+
+---
+
+## What We Do
+
+### Software Development
+- Custom web applications  
+- Scalable platforms and admin dashboards  
+- Enterprise-grade tools and automation systems  
+
+### ERP Solutions
+- Inventory management  
+- Order processing  
+- Product and catalog management  
+- Supplier and warehouse workflow automation  
+
+### E-commerce Integrations
+- Shopify API integrations  
+- Maropost Commerce Cloud integrations  
+- Multi-channel product and order sync  
+- Real-time order tracking and automation  
+
+### API & Microservices
+- REST API development  
+- API integration and connectors  
+- Third-party system automation  
+
+---
+
+## Tech Stack
+
+| Category   | Technology |
+|------------|------------|
+| Frontend   | React, Next.js |
+| Backend    | Laravel (PHP 8+), Node.js |
+| Database   | MySQL |
+| Integrations | Shopify API, Maropost API |
+| Tools      | GitHub, Docker, Postman |
+| Hosting    | AWS, Cloud Servers |
+
+---
+
+## Featured Projects
+
 - ERP Admin Dashboard  
-- Multi-channel Order Sync  
-- Product & Catalog Manager  
+- Multi-channel Order & Inventory Sync  
+- Shopify + Maropost Integration Layer  
+- Product Management & Catalog System  
 - Supplier Order Automation  
-- User & Role Management  
-- Activity Logs & Reporting  
+- User Role & Permission System  
 
 ---
 
-## Documentation
-Full documentation for modules and API structure will be added soon.  
-For custom implementations or integrations, contact us.
+## Our Values
+
+- Build scalable, secure systems  
+- Deliver real business impact  
+- Maintain high engineering standards  
+- Focus on performance, reliability, and user experience  
+- Provide long-term technology partnership  
 
 ---
 
-## Support & Contribution
-- Star this repository  
-- Create issues and suggestions  
-- Contribute via pull requests  
+## Contact
 
----
-
-## Connect
 Website: https://ganatrainfo.com  
 Email: contact@ganatrainfo.com  
-LinkedIn: https://in.linkedin.com/company/ganatra-info
- ---
+LinkedIn: https://in.linkedin.com/company/ganatra-info  
+
+---
 
 ## SEO Keywords
 
-Ganatra Info, ERP System, Inventory Management, Order Management, Shopify API Integration, Maropost Integration, Laravel ERP, React Admin Panel, Product Catalog System, Ecommerce Management System
-
+Ganatra Info, ERP Development, Inventory Management System, Order Management System, Shopify Integration, Maropost Integration, Laravel Development, React Admin Panel, Custom Software Development Company, Ecommerce Automation Solutions
